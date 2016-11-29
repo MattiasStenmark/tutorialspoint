@@ -1,0 +1,19 @@
+{
+  "name": "tutorialspoint",
+  "version": "1.0.0",
+  "description": "examples form tutorialspoint.com",
+  "main": "main.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/MattiasStenmark/tutorialspoint.git"
+  },
+  "author": "mattias stenmark",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/MattiasStenmark/tutorialspoint/issues"
+  },
+  "homepage": "https://github.com/MattiasStenmark/tutorialspoint#readme"
+}
